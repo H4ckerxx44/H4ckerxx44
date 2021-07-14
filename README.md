@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <!--   Top Languages Using -->
 Languages used:
-[![By language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=H4ckerxx44&count_private=true&show_icons=true&theme=dark)
-[![By commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=H4ckerxx44&count_private=true&show_icons=true&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=H4ckerxx44&count_private=true&show_icons=true&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=H4ckerxx44&count_private=true&show_icons=true&theme=nord_dark)
 
 
 
