@@ -13,14 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=H4ckerxx44&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--   Top Languages Using -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=H4ckerxx44&count_private=true&show_icons=true&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=H4ckerxx44&count_private=true&show_icons=true&theme=nord_dark)
-
+<!-- stats card -->  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=H4ckerxx44&count_private=true&show_icons=true&theme=dark"/>
+</p>
 
 
 <!-- retro visitor counter -->  
