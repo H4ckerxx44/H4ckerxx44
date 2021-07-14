@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=H4ckerxx44&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<!--   Top Languages Using -->
+### 👨‍💻 Top Languages Used*:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=H4ckerxx44&count_private=true&show_icons=true&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=H4ckerxx44&count_private=true&show_icons=true&theme=dark)
+
+
+
 <!-- retro visitor counter -->  
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/H4ckerxx44/count.svg" />  
