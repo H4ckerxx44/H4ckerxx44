@@ -21,8 +21,3 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=H4ckerxx44&theme=dark"/>
 </p>
-
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/H4ckerxx44/count.svg" />  
-</p>
