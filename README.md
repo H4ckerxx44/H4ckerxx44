@@ -1,23 +1,15 @@
 <!--
 **H4ckerxx44/H4ckerxx44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-<!-- stats card -->  
+<!-- Stats card -->  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=H4ckerxx44&count_private=true&show_icons=true&theme=dark"/>
 </p>
 
+<!-- Commit stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=H4ckerxx44&theme=dark"/>
 </p>
+
+![Metrics](https://metrics.lecoq.io/H4ckerxx44)
