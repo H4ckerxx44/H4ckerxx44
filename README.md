@@ -3,7 +3,7 @@
 -->
 
 <!-- Metrics Badge --->
-[![Metrics](https://github.com/H4ckerxx44/H4ckerxx44/actions/workflows/metrics.yml/badge.svg)](https://github.com/H4ckerxx44/H4ckerxx44/actions/workflows/metrics.yml)
+[![Metrics](https://github.com/H4ckerxx44/H4ckerxx44/actions/workflows/action.yml/badge.svg)](https://github.com/H4ckerxx44/H4ckerxx44/actions/workflows/action.yml)
 
 <!-- Stats card -->  
 <p align="center">
@@ -14,6 +14,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=H4ckerxx44&theme=dark"/>
 </p>
-
-<!-- If you're using "main" as default branch -->
-![Metrics](https://github.com/H4ckerxx44/H4ckerxx44/blob/main/github-metrics.svg)
