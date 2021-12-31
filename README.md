@@ -13,3 +13,11 @@
 </p>
 
 ![Metrics](https://metrics.lecoq.io/H4ckerxx44)
+
+
+<!-- If you're using "master" as default branch -->
+![Metrics](https://github.com/H4ckerxx44/H4ckerxx44/blob/master/github-metrics.svg)
+
+
+<!-- If you're using "main" as default branch -->
+![Metrics](https://github.com/H4ckerxx44/H4ckerxx44/blob/main/github-metrics.svg)
