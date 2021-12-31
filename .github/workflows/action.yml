@@ -51,7 +51,6 @@ jobs:
           plugin_languages_aliases: "Python:Py" # Customize languages names with aliases
           plugin_languages_details: bytes-size, percentage              # Additionally display total bytes size and percentage
           plugin_languages_threshold: 2%                                # Hides all languages less than 2%
-          languages stats
           plugin_languages_indepth: no                                  # Get indepth stats (see documentation before enabling)
           plugin_languages_analysis_timeout: 30                         # Set maximum time for indepth analysis
           plugin_languages_categories: programming                      # Display only languages that match these categories in most-used section
