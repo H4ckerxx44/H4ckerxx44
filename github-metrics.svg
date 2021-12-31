@@ -2632,7 +2632,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lowlighter/metrics</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2741,7 +2741,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nextcord/nextcord-v3</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast modular discord API wrapper written for python</div>
@@ -3618,7 +3618,7 @@
                         </section>
                         <footer>
                             <span>These metrics include private contributions</span>
-                            <span>Last updated 31 Dec 2021, 13:05:33 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0-beta</span>
+                            <span>Last updated 31 Dec 2021, 14:09:34 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0-beta</span>
                         </footer>
                     </section>
                     <div id="metrics-end"></div>
