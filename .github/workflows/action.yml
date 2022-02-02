@@ -57,8 +57,6 @@ jobs:
           plugin_notable_from: all
           plugin_notable_repositories: yes
           plugin_repositories: yes
-          plugin_repositories_affiliations: owner
-          plugin_repositories_batch: 100
           plugin_repositories_featured: nextcord/nextcord
           plugin_stars: yes
           plugin_stars_limit: 4
