@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2310" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1975" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.blue{color:#58a6ff}.af{opacity:0;animation:animation-fade 1s ease forwards}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.blue{color:#58a6ff}.af{opacity:0;animation:animation-fade 1s ease forwards}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -32,18 +32,18 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2632 Commits
+                            2638 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -88,7 +88,7 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            152 Issues opened
+                            153 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -171,13 +171,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    466 MB used
+                                    467 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    284k added, 169k removed
+                                    600k added, 185k removed
                                 </div>
                             </section>
                             <section>
@@ -197,7 +197,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
-                                    7 Forkers
+                                    8 Forkers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -228,12 +228,12 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="48.45238095238095" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="48.45238095238095" y="0" width="3.9285714285714284" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="52.38095238095238" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="52.38095238095238" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="52.38095238095238" y="0" width="153.2142857142857" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="205.59523809523807" y="0" width="14.404761904761905" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="47.88235294117647" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="47.88235294117647" y="0" width="3.8823529411764706" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="51.76470588235294" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="51.76470588235294" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="51.76470588235294" y="0" width="152.70588235294116" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="204.4705882352941" y="0" width="15.529411764705882" height="8" fill="#d2a8ff"/>
                             <rect mask="url(#issues-bar)" x="219.99999999999997" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="219.99999999999997" y="0" width="0" height="8" fill="#c9d1d9"/>
                         </svg>
@@ -256,7 +256,7 @@
                                     <path fill="#8957e5" d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                     <path fill="#8957e5" fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                 </svg>
-                                <span class="no-wrap">128 <small>closed</small></span>
+                                <span class="no-wrap">130 <small>closed</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -290,7 +290,7 @@
                                     <path fill="#d2a8ff" d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                     <path fill="#d2a8ff" fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                 </svg>
-                                <span class="no-wrap">11 <small>closed</small></span>
+                                <span class="no-wrap">12 <small>closed</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -314,13 +314,13 @@
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="2.3655913978494625" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="2.3655913978494625" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="2.3655913978494625" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="2.3655913978494625" y="0" width="14.193548387096774" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="16.559139784946236" y="0" width="14.193548387096774" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="30.75268817204301" y="0" width="165.59139784946237" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="196.34408602150538" y="0" width="23.655913978494624" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="4.680851063829787" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="4.680851063829787" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="4.680851063829787" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="4.680851063829787" y="0" width="14.042553191489361" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="18.72340425531915" y="0" width="14.042553191489361" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="32.765957446808514" y="0" width="163.82978723404256" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="196.59574468085106" y="0" width="23.404255319148938" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="field blue fill-width">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -333,7 +333,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#238636" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">1 <small>open</small></span>
+                                <span class="no-wrap">2 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -366,7 +366,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#56d364" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">1 <small>open</small></span>
+                                <span class="no-wrap">2 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -406,14 +406,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="185.8517041269157" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="185.8517041269157" y="0" width="167.4737239260497" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="353.32542805296544" y="0" width="67.34041215257191" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="420.66584020553734" y="0" width="19.16419626655168" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="439.830036472089" y="0" width="14.506788360073541" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="454.33682483216256" y="0" width="3.084616444180935" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="457.42144127634344" y="0" width="1.5347023841606926" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="458.95614366050415" y="0" width="1.0438563394958587" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="185.85010717343349" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="185.85010717343349" y="0" width="167.47623749382893" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="353.3263446672624" y="0" width="67.33983352185025" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="420.66617818911266" y="0" width="19.164031595853043" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="439.8302097849657" y="0" width="14.506663708721565" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="454.3368734936873" y="0" width="3.0845899392371416" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="457.42146343292444" y="0" width="1.534689197042888" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="458.95615262996733" y="0" width="1.0438473700326831" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -601,13 +601,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 79 days
+                            Current streak 80 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
-                            Best streak 79 days
+                            Best streak 80 days
                         </div>
                         <h3 class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -625,7 +625,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~6.83
+                            Average per day at ~6.87
                         </div>
                     </section>
                 </div>
@@ -2571,9 +2571,14 @@
                         </g>
                         <g transform="translate(88.39999999999999, 52)">
                             <g transform="translate(0, 5.5)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5 0,1.5 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5 1.7,2.5 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 6)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5 0,1.5 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5 1.7,2.5 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3 0,2 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2 1.7,3 z"/>
                             </g>
                         </g>
                     </g>
@@ -2588,6 +2593,133 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">H4ckerxx44/BotBaseV2</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1eca13f</div>
+                                        <div class="message">chore: add changelog for v1.2.0 and v1.2.1</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">15 Aug 2022, 23:21:44</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">H4ckerxx44/BotBaseV2</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3d06f4b</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/main'
+
+# Conflicts:
+#	src/cogs/fun.py</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2edd301</div>
+                                        <div class="message">fix: inspiro command works again, resolves #62</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">15 Aug 2022, 22:58:18</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">H4ckerxx44/BotBaseV2</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5f58903</div>
+                                        <div class="message">fix: inspiro command works again, resolves #62</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">15 Aug 2022, 22:57:22</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#62 fix inspiro command</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">H4ckerxx44/BotBaseV2</span></div>
+                                </div>
+                                <div class="timestamp">15 Aug 2022, 22:57:22</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#62 fix inspiro command</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">H4ckerxx44/BotBaseV2</span></div>
+                                </div>
+                                <div class="timestamp">15 Aug 2022, 22:57:07</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">H4ckerxx44/vincent-chatapp-name-history</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bffc0ce</div>
+                                        <div class="message">Update and rename names.md to README.md</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">15 Aug 2022, 22:16:37</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2627,1007 +2759,12 @@
                                 <div class="timestamp">15 Aug 2022, 18:40:11</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 21 commits in
-                                        <span class="repo">H4ckerxx44/nextcord</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a490649</div>
-                                        <div class="message">docs: fix warnings (#764)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b1a9200</div>
-                                        <div class="message">docs: bump sphinx requirement (#759)
-
-* docs: bump sphinx requirement
-
-Fixes issue with duplicate search results as in sphinx-doc/sphinx#10227.
-
-Fixes #758.
-
-* docs: change version restraint format</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6036ae3</div>
-                                        <div class="message">feat: add File.force_close to close bytesio files (#752)
-
-* Fixing memory leak when uploading files
-
-Removed the check for "_owner" in `File.close()` that causes a memory leak to occur when a message containing a file is sent.
-`nextcord.abc` calls `File.close()` for each file after the message is sent.
-Files bytes could not be deleted after `File.close()` is called.
-Causing uploaded files to linger in memory until the garbage collector removes them, usually after a few hours.
-
-* Adding "force_close" param to nextcord.File
-
-Also reverting previous changes
-
-* style: auto fixes from pre-commit hooks
-
-* reverted unnecessary change
-
-* attribute setting
-
-* style: auto fixes from pre-commit hooks
-
-* reverting; defaulting force_close to false; part 1
-
-* changing comments to reflect new changes
-
-Co-authored-by: Jonah Lawrence &lt;jonah@freshidea.com&gt;
-
-* message.py: to_file + force_close (default True)
-
-* style: auto fixes from pre-commit hooks
-
-* asset.py: to_file + force_close (default True)
-
-* style: auto fixes from pre-commit hooks
-
-* fixing message.py typehinting
-
-* file.py docs reflect new changes p1
-
-Co-authored-by: Jonah Lawrence &lt;jonah@freshidea.com&gt;
-
-* asset.py fixing typo
-
-Co-authored-by: Jonah Lawrence &lt;jonah@freshidea.com&gt;
-
-* file.py docs reflect new changes p2
-
-Co-authored-by: Jonah Lawrence &lt;jonah@freshidea.com&gt;
-
-* version indication 1/3
-
-Co-authored-by: Oliver Wilkes &lt;oliverwilkes2006@icloud.com&gt;
-
-* version indication 2/3
-
-Co-authored-by: Oliver Wilkes &lt;oliverwilkes2006@icloud.com&gt;
-
-* version indication 3/3
-
-Co-authored-by: Oliver Wilkes &lt;oliverwilkes2006@icloud.com&gt;
-
-Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;
-Co-authored-by: Jonah Lawrence &lt;jonah@freshidea.com&gt;
-Co-authored-by: Oliver Wilkes &lt;oliverwilkes2006@icloud.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#698951c</div>
-                                        <div class="message">feat(interactions): make Interaction generic on Client (#760)
-
-* feat: Make the type of interaction.client customizable
-
-* Fix undefined type issue
-
-* refactor: some type ignores are no longer needed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#49c344c</div>
-                                        <div class="message">chore: bump version for development</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bce790d</div>
-                                        <div class="message">chore: bump version to 2.1.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d56b0f</div>
-                                        <div class="message">fix: the singular pyright issue</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#32b5b6a</div>
-                                        <div class="message">docs: add changelogs for 2.1.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b5917ab</div>
-                                        <div class="message">docs(version-guarantees): clarify deprecation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1df1bac</div>
-                                        <div class="message">feat(app-cmds): channel, Annotated and Literal annotations (#678)
-
-* Blagh
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* Actually added Literal support, made the *Channel classes properly override the channel types
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* style: auto fixes from pre-commit hooks
-
-* Switched from typing.Annotated to typing_extensions.Annotated
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* style: auto fixes from pre-commit hooks
-
-* Added typing_extensions as a new hard requirement, added fix to make pyright not upset
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* Adding typing_extensions to docs requirements, little less hardcoding for the docs github workflow
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* Pyright, my IDE doesn't point out any of this, calm down.
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* It's optional now, are you happy pyright?
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* style: auto fixes from pre-commit hooks
-
-* Please.
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* At least you tell me what to do this time.
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* Failure.
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* fix(app cmds): Fixed annotated
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* style: auto fixes from pre-commit hooks
-
-* refactor(app cmds) SlashCommandOption getting channel types will now use a mapping
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* style?(app cmds) Removes commented out code
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* style: auto fixes from pre-commit hooks
-
-* fix(app cmds) pyright plz
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* style: auto fixes from pre-commit hooks
-
-* fix(app cmds) pyright plz
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* style: auto fixes from pre-commit hooks
-
-* fix(app cmds) removes type: ignore that pyright deems unnecessary[C
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* refactor(app cmds) uses  for type(None) comparison instead of
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* fix(app cmds) pyright stop please and thank you
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* docs(app cmds) added new valid annotations to docs
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* docs(app cmds) fixes a word
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* Fixed basic 3.8 support, needs more testing.
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* style: auto fixes from pre-commit hooks
-
-* format(app cmds): removes unnecessary critical logging, fixes line length of exception.
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* docs(app cmds) fix unnecessary line split.
-
-Co-authored-by: Oliver Wilkes &lt;oliverwilkes2006@icloud.com&gt;
-
-* docs(app cmds) cleans up a bit, adds docstring for unpack_annotated
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* feat(app cmds) add :class: support to slash command typehinting.
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* style: auto fixes from pre-commit hooks
-
-* refactor(app cmds) removes an unneeded 'pass'
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* fix(app cmds) raises a NotImplementedError if someone uses Literal in an undefined way
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* style: auto fixes from pre-commit hooks
-
-* docs(app cmds) add ForumChannel as a usable typehint to the docs
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* refactor(app cmds) Stops setting a variable when it doesn't need to be set.
-
-Co-authored-by: Jonah Lawrence &lt;jonah@freshidea.com&gt;
-
-* docs: updates setup.py to match docs/requirements.txt
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;
-Co-authored-by: Oliver Wilkes &lt;oliverwilkes2006@icloud.com&gt;
-Co-authored-by: Jonah Lawrence &lt;jonah@freshidea.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c7f0eb</div>
-                                        <div class="message">feat: add auto moderation support (#740)
-
-* feat: add AutoModerationEventType
-
-* feat: add AutoModerationTriggerType
-
-* feat: add KeywordPresetType
-
-* feat(types): add automod enums raw types
-
-* feat: add AutoModerationTriggerMetadata
-
-* docs(automod): add versionadded to triggermetadata
-
-* refactor(automod): rename import alias for payload
-
-* fix(enums): add new entries to __all__
-
-* feat: add AutoModerationActionType
-
-* feat(types): add AutoModerationActionType
-
-* feat: add AutoModerationActionMetadata
-
-* refactor(automod): redo *metadata to be usable
-
-* feat: add AutoModerationAction
-
-* feat: add AutoModerationRule
-
-* fix: add relevant classes to __all__
-
-* feat(http): add auto moderation api routes
-
-* feat(guild): add .auto_moderation_rules
-
-* refactor(automod): use dict.get when possible
-
-* feat(enums): add MessageType.auto_moderation_action
-
-* docs: include the guild feature AUTO_MODERATION
-
-* refactor(flags): modify Intents.all for skipped
-
-* feat(flags): add intents for auto moderation
-
-* feat(guild): add Guild.fetch_auto_moderation_rule
-
-* feat:(automod) add AutoModerationRule.delete
-
-* feat(automod): add AutoModerationRule.edit
-
-* docs(automod): document AutoModerationRule.edit
-
-* refactor(automod): allow construction of action
-
-* feat(guild): add Guild.create_auto_moderation_rule
-
-* feat: add on_auto_moderation_rule_create
-
-* feat: add on_auto_moderation_rule_update
-
-* feat: add on_auto_moderation_rule_delete
-
-* docs: fix warnings
-
-* feat(automod): add AutoModerationActionExecution
-
-* feat: add on_auto_moderation_action_execution
-
-* fix(state): import AutoModerationActionExecution
-
-* feat(audit-log): support auto moderation
-
-* fix(automod): allow metadata to be ommitted
-
-* refactor(automod): use a snowflake for metadata
-
-* fix(automod): use correct type for metadata kwarg
-
-* docs: fix typos
-
-* apply suggestions from code review
-
-* docs(guild): document actions in create automod rule
-
-* docs(api): reword who's to whose
-
-Co-authored-by: Jonah Lawrence &lt;jonah@freshidea.com&gt;
-
-* feat(automod): add allow_list metadata
-
-https://github.com/discord/discord-api-docs/pull/5116
-
-* fix(automod): content not provided without intents
-
-* docs(api): replace accidental :members: removal
-
-Co-authored-by: Jonah Lawrence &lt;jonah@freshidea.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#209dd87</div>
-                                        <div class="message">feat(app-cmds): add qualified_name (#742)
-
-* feat(app cmds): Adds qualified name.
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* fix(app cmd): Will string qualified name to prevent None from breaking things.
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* style: auto fixes from pre-commit hooks
-
-* ditto.
-
-Signed-off-by: Alex Schoenhofen &lt;alexanderschoenhofen@gmail.com&gt;
-
-* style: auto fixes from pre-commit hooks
-
-* Apply suggestions from code review
-
-Co-authored-by: Oliver Wilkes &lt;oliverwilkes2006@icloud.com&gt;
-
-* style: auto fixes from pre-commit hooks
-
-* refactor(app-cmds): use format string for subcommands
-
-Co-authored-by: teaishealthy &lt;76410798+teaishealthy@users.noreply.github.com&gt;
-
-* style: auto fixes from pre-commit hooks
-
-* docs(app-cmds): use two backticks for code literals
-
-Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;
-Co-authored-by: Oliver Wilkes &lt;oliverwilkes2006@icloud.com&gt;
-Co-authored-by: teaishealthy &lt;76410798+teaishealthy@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#317a980</div>
-                                        <div class="message">feat: add forum channel support (#608)
-
-* feat: implement start thread in forum http methods
-
-* feat: impl forum ChannelType Enum
-
-* feat: impl ForumChannel
-
-* feat: add ForumChannel to _guild_channel_factory
-
-* feat: last_message_id in ForumChannel up-to-date
-
-* feat: add slots to ForumChannel + rename stuff
-
-* fix: typing
-
-* fix: auto_archive_duration default
-
-* fix: adding return types and resolve reviews
-
-* fix: call get_message_multipart_form
-
-* feat: move message object to "message" key
-
-* fix: add message_key to get_message_multipart_form
-
-* fix: remove json=payload
-
-* feat: impl channel flags
-
-* fix(channel): resolve some pyright issues
-
-* fix: more pyright type issues
-
-* fix: even more type fixes
-
-* fix: one more pyright fix
-
-* fix: actually import forums
-
-* fix(channel): forums dont have references
-
-* fix(channels): import File at runtime
-
-* fix(http): get files working again
-
-* fix(flags): add ChannelFlags to __all__
-
-* feat(threads): add Thread.flags
-
-* feature(threads): update and edit thread flags
-
-* docs(textchannel): use proper typehints for thread
-
-* docs(textchannel): type default in private thread
-
-* docs(textchannel): type default for archive thread
-
-* docs(channel): use a note for joined in archived
-
-* docs(forumchannel): add attribute docs
-
-* docs(forumchannel): remove mistype
-
-* docs(channel): reword ForumChannel.threads description
-
-* docs(channel): remove unnecessary dashes in headers
-
-* docs(channel): remove unnecessary dashes in archived_threads
-
-* fix(channel): remove optional from forum edit
-
-* docs(channel): use optional in forum create thread
-
-* docs(channel): remove versionadded for forum
-
-* docs(channel): remove unnecessary dashes
-
-* docs(flags): fix up ChannelFlags
-
-* docs(channel): use a note for archived threads
-
-* Apply suggestions from code review
-
-* Apply suggestions from code review
-
-* Apply suggestions from code review
-
-Co-authored-by: Jonah Lawrence &lt;jonah@freshidea.com&gt;
-
-* docs: add relevant forum channel documentation
-
-* feat(guild): add Guild.forum_channels
-
-* docs(channel): mark ForumChannel.edit correct type
-
-* feat(guild): add Guild.create_forum_channel
-
-* feat(channel): add CategoryChannel.create_forum_channel
-
-* docs(channel): small documentation tweaks
-
-* docs(flags): add versionadded for ChannelFlags
-
-* docs(threads): document flags to Thread.edit
-
-* fix(channel): use capital letters for error msgs
-
-* docs(channel): fix Guild.forum_channels grammar
-
-* docs(api): move forum channel up to other channels
-
-* docs(channel): clarity last_message* attributes
-
-Co-authored-by: Jonah Lawrence &lt;jonah@freshidea.com&gt;
-
-Co-authored-by: ooliver1 &lt;oliverwilkes2006@icloud.com&gt;
-Co-authored-by: Jonah Lawrence &lt;jonah@freshidea.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a525bfd</div>
-                                        <div class="message">feat: support more input types where files are used (#607)
-
-* feat(channel): create_webook() kwarg avatar is Asset
-
-Changed byte to Asset for easier use case
-Used `await Asset.read()` to change it into bytes
-
-* feat(channel) create_webook() kwarg avatar supports multiple formats
-
-Accept multiple formats (eg. Asset, Attachment, or bytes) and read the object conditionally based on the type.
-It adds time complexity only when user will add Asset, Attachment for `await avatar.read()` else it'll simply pass the bytes which takes no extra time.
-
-* (whole library) image/icon/avatar will support multiple formats
-
-### Changes in following methods👇
-
-- Webhook.edit
-- ~~SyncWebhook.edit~~
-- ClientUser.edit
-- Client.create_guild
-- Guild.edit
-- Guild.create_custom_emoji
-- Guild.create_role
-- Guild.create_scheduled_event
-- ScheduledEvent.edit
-
-### SyncWebhook.edit
-This method can't support Asset, Attachment because `await avatar.read()` is a coroutine and SyncWebhook.edit is not async
-
-* (Bug Fixed) Guild.create_text_channel() not working
-
-# Issue
-**Guild.create_text_channel() is not sucsessfully creating a `TextChannel`**
-
-## This commit will...
-- Fix the error of Guild.create_text_channel()
-![Screenshot of the error](https://i.ibb.co/HdcLvZ1/Text-Channel-CLI-Error.png)
-
-## Why is it necessary?
-1. This method has a line where it uses TextChannel class to create the new instance for the new channel
-![Screenshot of the line](https://i.ibb.co/YdtDXfh/Text-Channel-Error.png)
-2. But the `TextChannel` is imported under TYPECHEKING
-![Screenshot of Typechecking](https://i.ibb.co/j87g4mf/Text-Channel-Under-Typechecking.png)
-
-## How does the change address the issue?
-1. I imported `TextChannel` and deleted the type checking import
-
-* (🐛 Bug Fixed) ScheduledEvent.edit(image=example.png) is not working
-
-# Issue
-&gt; **When I'm trying to edit the cover image using ScheduledEvent.edit() it's not changing the image of the ScheduledEvent**
-**It doesn't even through any errors in the console, just silently ignores the image parameter**
-
-## This commit will...
-Fix the error of Guild.create_text_channel() and it'll start to change the cover image of the ScheduledEvent as it supposes to do.
-
-## How does the change address the issue?
-1. I saw there is an internal HTTP handler that sends the actual request to the discord API.
-```py
-data = await self._state.http.edit_event(self.guild.id, self.id, reason=reason, **payload)
-```
-2. Inside of _state.http.edit_event() there is a key validation system and I noticed there is no `image` key mentioned. So I just added the `image` key in the valid_keys set which fixed the issue.
-```py
-valid_keys = {
-    'channel_id',
-    'event_metadata',
-    'name',
-    'privacy_level',
-    'scheduled_start_time',
-    'scheduled_end_time',
-    'description',
-    'entity_type',
-     'status',
-    'image'  # &lt;-- this line fixed the issue
-}
-payload = {k: v for k, v in payload.items() if k in valid_keys}
-```
-
-* (Modified) unused imports and codes, some docstrings, pythonic way
-
-### Removed unused imports and codes
-- `@overload` is not necessary for Guild.create_role()
-- Removed some unused imports from `client.py`
-
-### Modified Some docstrings
-Added docstring for: 
-- `ScheduledEvent.edit()` parameter `reason`
--  `Guild.create_role()` parameter `color` 
-- `Guild.create_scheduled_event()` parameter `reason` 
-
-### More pythonic way
-In `Guild.create_scheduled_event()` payload dictionary initialized with default key-value pairs
-```py
- payload: Dict[str, Any] = {
-   'name': name,
-   'entity_type': entity_type.value,
-   'scheduled_start_time': start_time.isoformat()
-}
-```
-
-* Broke multi-conditional operations in a single statement for simplicity
-
-- Broke multi-conditional if-else statements across multiple lines for better readability.
--  Removed duplicate like `gray=2` in enums.py
-- Added `@overload` for Guild.create_role()
-
-* Apply suggestions from code review
-
-Co-authored-by: Jonah Lawrence &lt;jonah@freshidea.com&gt;
-
-* Apply suggestions from codes review (#2)
-
-- (enum.py) Re added gray Because this is not a duplicate as one is "grey" with "e" and the other is "gray" with "a"
-
-- (Client.create.guild, Channel.create_webhook) Fixed Pylance issue since assigning avatar to a value that is a different type than the type it was declared as.
-
-- (Guild.create_role) The docstring for colour already mentions that there is an alias.
-
-* Apply suggestions from codes review (2)
-
-- (enum.py) Re added gray Because this is not a duplicate as one is "grey" with "e" and the other is "gray" with "a"
-
-- (Client.create.guild, Channel.create_webhook) Fixed Pylance issue since assigning avatar to a value that is a different type than the type it was declared as.
-
-- (Guild.create_role) The docstring for colour already mentions that there is an alias.
-
-* Minor cahnges for consistency
-
-Co-authored-by: Jonah Lawrence &lt;jonah@freshidea.com&gt;
-
-* (🐛Bug Fixed) All type of channel creation except TextChannel not working
-
-* Removed `File` support for icon kwarg in  Guild.create_role
-
-* (⚡Breaking change) Removing File support and adding Asset, Attachment
-
-* Removed unused imports
-
-* (whole library) image/icon/avatar will support File
-
-* (⚡ Fix) Type errors, Role added into cache, 
-
-- A todo in Guild.create_role() add newly created role into guild cache
-- Enum type warnings are fixed
-- Various other type warnings are fixed
-
-* (Revert) not adding role to cache, refactor User.default_avatar
-
-* feat(enum) renaming mcs to cls as before
-
-* Import File outside if TYPE_CHECKING
-
-* Combined duplicate code fragments into Utils._obj_to_bytes64_data
-
-* Fixed File imports for preventing circular loop
-
-* Apply suggestions from code review
-
-Co-authored-by: Jonah Lawrence &lt;jonah@freshidea.com&gt;
-
-* fixed a small code
-
-* icon is None line not required
-
-* Reverted back Template.create_guild kwarg region
-
-* style: auto fixes from pre-commit hooks
-
-* fix: resolve pyright issues
-
-* Apply suggestions from code review
-
-Hopefully, it'll fix Checks
-
-Co-authored-by: Jonah Lawrence &lt;jonah@freshidea.com&gt;
-
-* fix: pyright checks
-
-* chore(enum): removed unrelated properties
-
-* reformat(client): unrelated region variable type casting
-
-* fix: resolve pyright issue
-
-* Update nextcord/scheduled_events.py
-
-Co-authored-by: Jonah Lawrence &lt;jonah@freshidea.com&gt;
-
-* refactor(type): revert type  SnowflakeList for guild created emoji
-
-* docs: Update docs for all edited attributes
-
-* style: auto fixes from pre-commit hooks
-
-* docs(guild): fixed the indentation.
-
-* docs(role): fixed docs according to the correct changes
-
-* docs(webhook): modified according to changes.
-
-* Apply suggestions from code review
-
-Co-authored-by: Oliver Wilkes &lt;oliverwilkes2006@icloud.com&gt;
-
-* docs: fix typos
-
-Co-authored-by: Jonah Lawrence &lt;jonah@freshidea.com&gt;
-Co-authored-by: ooliver1 &lt;oliverwilkes2006@icloud.com&gt;
-Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d1d625</div>
-                                        <div class="message">chore(readme): add an example slash command (#656)
-
-* Update README.rst
-
-* style: auto fixes from pre-commit hooks
-
-* Update README.rst
-
-Co-authored-by: Oliver Wilkes &lt;oliverwilkes2006@icloud.com&gt;
-
-* Update README.rst
-
-Co-authored-by: Oliver Wilkes &lt;oliverwilkes2006@icloud.com&gt;
-
-* Update README.rst
-
-Co-authored-by: Oliver Wilkes &lt;oliverwilkes2006@icloud.com&gt;
-
-* Update README.rst
-
-* style: auto fixes from pre-commit hooks
-
-* Update README.rst
-
-Co-authored-by: Oliver Wilkes &lt;oliverwilkes2006@icloud.com&gt;
-
-* Update README.rst
-
-* Update README.rst
-
-* Update README.rst
-
-Co-authored-by: Jonah Lawrence &lt;jonah@freshidea.com&gt;
-
-* Update README.rst
-
-Co-authored-by: Jonah Lawrence &lt;jonah@freshidea.com&gt;
-
-* Update README.rst
-
-Co-authored-by: Jonah Lawrence &lt;jonah@freshidea.com&gt;
-
-* Update README.rst
-
-* Update README.rst
-
-Co-authored-by: Oliver Wilkes &lt;oliverwilkes2006@icloud.com&gt;
-
-* Update README.rst
-
-Co-authored-by: Oliver Wilkes &lt;oliverwilkes2006@icloud.com&gt;
-
-* Update README.rst
-
-* Update README.rst
-
-* Update README.rst
-
-Co-authored-by: Jonah Lawrence &lt;jonah@freshidea.com&gt;
-
-* Update README.rst
-
-Co-authored-by: Oliver Wilkes &lt;oliverwilkes2006@icloud.com&gt;
-
-* Update README.rst
-
-* Update README.rst
-
-* Update README.rst
-
-* Update README.rst
-
-* Update README.rst
-
-* Update README.rst
-
-Co-authored-by: Oliver Wilkes &lt;oliverwilkes2006@icloud.com&gt;
-
-* Update README.rst
-
-* Update README.rst
-
-* Update README.rst
-
-* Update README.rst
-
-* Update README.rst
-
-* style: auto fixes from pre-commit hooks
-
-Co-authored-by: Arjun Sharda &lt;77706434+ajsharda17@users.noreply.github.com&gt;
-Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;
-Co-authored-by: Oliver Wilkes &lt;oliverwilkes2006@icloud.com&gt;
-Co-authored-by: Jonah Lawrence &lt;jonah@freshidea.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f02c33</div>
-                                        <div class="message">feat(flags): add ApplicationFlags.application_command_badge (#750)
-
-* feat: Application Command Badge flag
-
-* docs: update wording to be more consistent with other flags</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2445e44</div>
-                                        <div class="message">fix(commands): resolve unexpected kwarg errors with GroupMixin (#743)
-
-* fix(commands): return the blind init in GroupMixin
-
-* fix(commands): call GroupMixin explicitly to prevent recalls</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#24a6e6c</div>
-                                        <div class="message">docs(examples): add message_content or remove prefix where applicable (#746)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d091558</div>
-                                        <div class="message">docs(guild): fix grammar on Guild channel properties (#745)
-
-fix: fix grammatical error on Guild.*_channels</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d60415</div>
-                                        <div class="message">fix(commands): use AutoShardedClient initialiser (#735)
-
-* fix(commands): use AutoShardedClient initialiser
-
-if `AutoShardedBot` was used, `Client` would still be initialised
-this uses a `client_type` classvar aware to `BotBase`
-this is so the correct type is used as the superclass
-
-* fix(bot): call autoshardedclient in autoshardedbot
-
-* fix(bot): apply suggestions from code review
-
-* fix(bot): use an empty set if no owner_ids
-
-* fix(bot): remove BotBase owner_id default</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Aug 2022, 18:37:59</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">public-apis/public-apis</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Aug 2022, 05:58:39</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">H4ckerxx44/BotBaseV2</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c20be76</div>
-                                        <div class="message">refactor: simplify reaction to message</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Aug 2022, 05:53:01</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">H4ckerxx44/vincent-chatapp-name-history</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#99be8e7</div>
-                                        <div class="message">style: format table with pycharm</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Aug 2022, 05:24:48</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">H4ckerxx44/vincent-chatapp-name-history</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#72321d9</div>
-                                        <div class="message">feat: add dates to names, remove named which weren't for the chat app</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#df09e06</div>
-                                        <div class="message">Update names.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ad20527</div>
-                                        <div class="message">Update names.md</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Aug 2022, 05:23:56</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#2 Update names.md</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by VincentRPS in <span class="repo">H4ckerxx44/vincent-chatapp-name-history</span></div>
-                                    <div>1 file changed <span class="code">++20 --24</span></div>
-                                </div>
-                                <div class="timestamp">15 Aug 2022, 05:23:55</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Aug 2022, 21:09:03 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 16 Aug 2022, 21:07:26 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
